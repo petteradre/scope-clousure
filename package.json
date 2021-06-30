@@ -1,12 +1,16 @@
 {
   "name": "scope-clousure",
   "version": "1.0.0",
-  "description": "",
+  "description": "clousures and scope course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "petteradre"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "adnCode",
+  "license": "MIT"
 }
